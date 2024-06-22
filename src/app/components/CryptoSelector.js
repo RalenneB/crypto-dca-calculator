@@ -2,7 +2,7 @@ import React from "react";
 
 function CryptoSelector({ cryptocurrencies, selectedCrypto, onCryptoChange }) {
   return (
-    <div>
+    <div className="p-3">
       <select
         value={selectedCrypto}
         onChange={(e) => onCryptoChange(e.target.value)}
