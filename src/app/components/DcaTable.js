@@ -7,14 +7,6 @@ const DcaTable = ({ data }) => {
   );
 
   const calculatedData = calculateDca(sortedData);
-
-  //   console.log(calculatedData);
-
-  //   const [calculatedData, setCalculatedData] = useState([]);
-  //   const calculated = calculateDca(sortedData);
-  //   setCalculatedData(calculated);
-
-  //   calculatedDca = calculateDca(sortedData);
   return (
     <table className="min-w-full divide-y divide-gray-200">
       <thead className="bg-gray-50">

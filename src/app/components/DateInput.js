@@ -22,8 +22,6 @@ function DateInput({ selectedCrypto }) {
         )}&EndDate=${formatDataForQuery(new Date())}`
       )
       .then((response) => {
-        // console.log("here: ", response.data);
-        // setData([...response.data]);
         const formattedData = response.data.map((item) => ({
           ...item,
           investment: 100, // Add the static investment value here
@@ -51,7 +49,6 @@ function DateInput({ selectedCrypto }) {
         </div>
         <div className="flex flex-col items-center justify-center p-2">
           <button
-            // onClick={handleCalculate}
             className="p-2 m-3 text-white bg-purple-400 rounded-md "
             type="submit"
           >

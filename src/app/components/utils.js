@@ -42,30 +42,3 @@ export function calculateDca(data) {
     };
   });
 }
-
-// export function calculateDca(investments) {
-//   let totalInvested = 0;
-//   let totalUnits = 0;
-
-//   // Iterăm prin fiecare investiție din array
-//   investments.forEach((investment) => {
-//     // Destructurăm obiectul investiție
-//     const { investedAmount, cryptoPrice } = investment;
-
-//     // Calculăm numărul de unități achiziționate pentru această investiție
-//     const unitsPurchased = investedAmount / cryptoPrice;
-
-//     // Actualizăm totalurile
-//     totalInvested += investedAmount;
-//     totalUnits += unitsPurchased;
-
-//     // Adăugăm DCA calculat în obiectul investiție
-//     investment.dca = unitsPurchased.toFixed(6); // DCA este numărul de unități achiziționate în acest caz
-//   });
-
-//   // Calculăm DCA mediu
-//   const averageDca = totalInvested / totalUnits;
-
-//   // Returnăm atât array-ul actualizat cu DCA-urile calculate, cât și DCA-ul mediu
-//   return { investments, averageDca };
-// }

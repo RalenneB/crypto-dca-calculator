@@ -1,0 +1,247 @@
+[
+    {
+      "id": 6,
+      "startDate": "1905-07-14T00:00:00",
+      "endDate": "1905-07-14T00:00:00",
+      "cryptoType": "BTC",
+      "investedAmount": 100,
+      "cryptoPrice": 40000,
+      "comments": []
+    },
+    {
+      "id": 7,
+      "startDate": "2024-06-22T07:28:25.867",
+      "endDate": "2024-06-22T07:28:25.867",
+      "cryptoType": "string",
+      "investedAmount": 0,
+      "cryptoPrice": 0,
+      "comments": []
+    },
+    {
+      "id": 8,
+      "startDate": "2024-06-22T07:28:25.867",
+      "endDate": "2024-06-22T07:28:25.867",
+      "cryptoType": "ADA",
+      "investedAmount": 0,
+      "cryptoPrice": 3645,
+      "comments": [
+        {
+          "id": 25,
+          "title": "test 2 1331",
+          "content": "string",
+          "createdOn": "2024-06-22T10:20:49.799",
+          "cryptocurrencyId": 2,
+          "cryptocurrency": null,
+          "dcaInvestmentId": 8
+        },
+        {
+          "id": 27,
+          "title": "string",
+          "content": "string",
+          "createdOn": "2024-06-22T10:22:18.411",
+          "cryptocurrencyId": null,
+          "cryptocurrency": null,
+          "dcaInvestmentId": 8
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "startDate": "2024-05-22T10:23:53.934",
+      "endDate": "2024-05-22T10:23:53.934",
+      "cryptoType": "DOT",
+      "investedAmount": 3423,
+      "cryptoPrice": 122,
+      "comments": [
+        {
+          "id": 28,
+          "title": "dot title",
+          "content": "dot is fun",
+          "createdOn": "2024-06-22T10:22:18.411",
+          "cryptocurrencyId": null,
+          "cryptocurrency": null,
+          "dcaInvestmentId": 9
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "startDate": "2024-06-22T10:27:42.576",
+      "endDate": "2024-06-22T10:27:42.576",
+      "cryptoType": "ETH",
+      "investedAmount": 65,
+      "cryptoPrice": 100000,
+      "comments": []
+    },
+    {
+      "id": 11,
+      "startDate": "2024-06-21T10:28:46.266",
+      "endDate": "2024-06-20T10:28:46.266",
+      "cryptoType": "ADA",
+      "investedAmount": 41,
+      "cryptoPrice": 532,
+      "comments": []
+    },
+    {
+      "id": 12,
+      "startDate": "2024-05-27T00:00:00",
+      "endDate": "2024-05-27T00:00:00",
+      "cryptoType": "BTC",
+      "investedAmount": 0,
+      "cryptoPrice": 3321,
+      "comments": []
+    },
+    {
+      "id": 13,
+      "startDate": "2024-06-13T00:00:00",
+      "endDate": "2024-06-21T00:00:00",
+      "cryptoType": "BTC",
+      "investedAmount": 0,
+      "cryptoPrice": 3321,
+      "comments": []
+    },
+    {
+      "id": 14,
+      "startDate": "2024-06-13T00:00:00",
+      "endDate": "2024-06-21T00:00:00",
+      "cryptoType": "BTC",
+      "investedAmount": 0,
+      "cryptoPrice": 3323,
+      "comments": []
+    },
+    {
+      "id": 15,
+      "startDate": "2024-01-01T00:00:00",
+      "endDate": "2024-01-01T13:00:52.93",
+      "cryptoType": "BTC",
+      "investedAmount": 100,
+      "cryptoPrice": 40234,
+      "comments": []
+    },
+    {
+      "id": 16,
+      "startDate": "2024-01-01T00:00:00",
+      "endDate": "2024-01-01T00:00:00",
+      "cryptoType": "BTC",
+      "investedAmount": 100,
+      "cryptoPrice": 40234,
+      "comments": []
+    },
+    {
+      "id": 17,
+      "startDate": "2024-02-01T00:00:00",
+      "endDate": "2024-02-01T00:00:00",
+      "cryptoType": "BTC",
+      "investedAmount": 100,
+      "cryptoPrice": 40000,
+      "comments": []
+    },
+    {
+      "id": 18,
+      "startDate": "2024-03-01T00:00:00",
+      "endDate": "2024-03-01T00:00:00",
+      "cryptoType": "BTC",
+      "investedAmount": 100,
+      "cryptoPrice": 37000,
+      "comments": []
+    },
+    {
+      "id": 19,
+      "startDate": "2024-04-01T00:00:00",
+      "endDate": "2024-04-01T00:00:00",
+      "cryptoType": "BTC",
+      "investedAmount": 100,
+      "cryptoPrice": 37870,
+      "comments": []
+    },
+    {
+      "id": 20,
+      "startDate": "2024-05-01T00:00:00",
+      "endDate": "2024-05-01T00:00:00",
+      "cryptoType": "BTC",
+      "investedAmount": 100,
+      "cryptoPrice": 34870,
+      "comments": []
+    },
+    {
+      "id": 21,
+      "startDate": "2024-06-01T00:00:00",
+      "endDate": "2024-06-01T00:00:00",
+      "cryptoType": "BTC",
+      "investedAmount": 100,
+      "cryptoPrice": 34100,
+      "comments": []
+    },
+    {
+      "id": 22,
+      "startDate": "2023-12-01T00:00:00",
+      "endDate": "2023-12-01T00:00:00",
+      "cryptoType": "BTC",
+      "investedAmount": 100,
+      "cryptoPrice": 39865,
+      "comments": []
+    },
+    {
+      "id": 23,
+      "startDate": "2023-11-01T00:00:00",
+      "endDate": "2023-11-01T00:00:00",
+      "cryptoType": "BTC",
+      "investedAmount": 100,
+      "cryptoPrice": 35865,
+      "comments": []
+    },
+    {
+      "id": 24,
+      "startDate": "2023-10-01T00:00:00",
+      "endDate": "2023-10-01T00:00:00",
+      "cryptoType": "BTC",
+      "investedAmount": 100,
+      "cryptoPrice": 50000,
+      "comments": []
+    },
+    {
+      "id": 25,
+      "startDate": "2024-01-01T00:00:00",
+      "endDate": "2024-01-01T00:00:00",
+      "cryptoType": "DOT",
+      "investedAmount": 100,
+      "cryptoPrice": 50,
+      "comments": []
+    },
+    {
+      "id": 26,
+      "startDate": "2024-02-01T00:00:00",
+      "endDate": "2024-02-01T00:00:00",
+      "cryptoType": "DOT",
+      "investedAmount": 100,
+      "cryptoPrice": 49,
+      "comments": []
+    },
+    {
+      "id": 27,
+      "startDate": "2024-03-01T00:00:00",
+      "endDate": "2024-03-01T00:00:00",
+      "cryptoType": "DOT",
+      "investedAmount": 100,
+      "cryptoPrice": 47,
+      "comments": []
+    },
+    {
+      "id": 28,
+      "startDate": "2024-04-01T00:00:00",
+      "endDate": "2024-04-01T00:00:00",
+      "cryptoType": "DOT",
+      "investedAmount": 100,
+      "cryptoPrice": 51,
+      "comments": []
+    },
+    {
+      "id": 29,
+      "startDate": "2024-06-01T00:00:00",
+      "endDate": "2024-06-01T00:00:00",
+      "cryptoType": "DOT",
+      "investedAmount": 100,
+      "cryptoPrice": 48,
+      "comments": []
+    }
+  ]
